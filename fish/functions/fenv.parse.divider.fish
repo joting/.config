@@ -1,0 +1,1 @@
+/home/jordan/.config/fisherman/foreign-env/functions/fenv.parse.divider.fish

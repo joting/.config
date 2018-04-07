@@ -1,0 +1,1 @@
+/home/jordan/.config/fisherman/foreign-env/test.py
