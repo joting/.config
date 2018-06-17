@@ -1,1 +1,1 @@
-/home/jordan/.config/fisherman/nodenv/conf.d/nodenv.fish
+/Users/jordan/.config/fisherman/nodenv/conf.d/nodenv.fish
