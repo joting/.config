@@ -15,6 +15,7 @@ if dein#load_state('$HOME/.local/share/nvim/dein')
   " call dein#add('Shougo/neosnippet.vim')
   " call dein#add('Shougo/neosnippet-snippets')
   call dein#add('christoomey/vim-tmux-navigator')
+  call dein#add('tpope/vim-surround')
 
   " You can specify revision/branch/tag.
   " call dein#add('Shougo/deol.nvim', { 'rev': 'a1b5108fd' })
