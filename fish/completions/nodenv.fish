@@ -1,1 +1,0 @@
-/Users/jordan/.config/fisherman/nodenv/completions/nodenv.fish
