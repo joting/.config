@@ -1,15 +1,15 @@
 "dein Scripts-----------------------------
 
 " Required:
-set runtimepath+=$HOME/.local/share/nvim/dein/repos/github.com/Shougo/dein.vim
+set runtimepath+=$HOME/.cache/dein/repos/github.com/Shougo/dein.vim
 
 " Required:
-if dein#load_state('$HOME/.local/share/nvim/dein')
-  call dein#begin('$HOME/.local/share/nvim/dein')
+if dein#load_state('$HOME/.cache/dein')
+  call dein#begin('$HOME/.cache/dein')
 
   " Let dein manage dein
   " Required:
-  call dein#add('$HOME/.local/share/nvim/dein/repos/github.com/Shougo/dein.vim')
+  call dein#add('$HOME/.cache/dein/repos/github.com/Shougo/dein.vim')
 
   " Add or remove your plugins here:
   " call dein#add('Shougo/neosnippet.vim')
